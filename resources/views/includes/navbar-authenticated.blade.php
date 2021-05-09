@@ -29,9 +29,8 @@
                         <li class="nav-item">
                             <a href="/ " class="nav-link">Rewards</a>
                         </li>
-
-                        <!-- dekstop Menu -->
                     </ul>
+                    <!-- dekstop Menu -->
 
                     <ul class="navbar-nav d-none d-lg-flex">
                         <li class="nav-item dropdown">
@@ -67,7 +66,7 @@
                             </a>
                         </li>
                     </ul>
-
+                    {{-- mobile menu --}}
                     <ul class="navbar-nav d-block d-lg-none">
                         <li class="nav-item">
                             <a href="#" class="nav-link">Hi, Bembie</a>
