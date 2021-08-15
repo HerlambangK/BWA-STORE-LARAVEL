@@ -1,5 +1,8 @@
 {
     "private": true,
+    "name": "BembieStore",
+    "version": "1.0.0",
+    "description": "Bembie laravel BWA",
     "scripts": {
         "dev": "npm run development",
         "development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
@@ -9,6 +12,9 @@
         "prod": "npm run production",
         "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --no-progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
     },
+    "keywords": [],
+    "author": "Herlambang K",
+    "license": "ISC",
     "devDependencies": {
         "axios": "^0.19",
         "bootstrap": "^4.0.0",
